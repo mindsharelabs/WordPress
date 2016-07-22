@@ -1,0 +1,9 @@
+[submodule "wp-content/themes/blankout"]
+	path = wp-content/themes/blankout
+	url = git@github.com:mindsharelabs/blankout.git
+[submodule "wp-content/plugins/mindshare-api"]
+	path = wp-content/plugins/mindshare-api
+	url = git@github.com:mindsharelabs/mindshare-api.git
+[submodule "wp-content/plugins/php-browser-detection"]
+	path = wp-content/plugins/php-browser-detection
+	url = git@github.com:mindsharelabs/php-browser-detection.git
